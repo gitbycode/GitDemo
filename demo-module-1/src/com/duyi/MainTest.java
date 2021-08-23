@@ -5,5 +5,6 @@ public class MainTest {
         System.out.println("remove input");
         System.out.println("又一次提交");
         System.out.println("又一次提交");
+        System.out.println("又一次提交");
     }
 }
